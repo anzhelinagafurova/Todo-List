@@ -1,0 +1,14 @@
+.header-container__header{
+    padding: 20px 0px;
+    margin: 0;
+}
+.header-container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+.header-container__info{
+    font-size: 18px;
+    color: rgb(119, 119, 121);
+    font-weight: 500;
+}

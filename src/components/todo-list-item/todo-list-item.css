@@ -1,0 +1,19 @@
+.todo-list-item{
+    padding: 0px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 40px;
+    cursor: pointer;
+}
+.mark-button{
+    float:right;
+    margin: 0px 5px;
+    width: 40px;
+}
+.done{
+    text-decoration: line-through;
+}
+.important{
+    color:steelblue;
+    font-weight: 700;
+}
